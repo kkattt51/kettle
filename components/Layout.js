@@ -29,14 +29,14 @@ export default function Layout({ title, description, children }) {
       body1: {
         fontWeight: 'normal',
       },
-      palette: {
-        type: 'light',
-        primary: {
-          main: '#f0c000',
-        },
-        secondary: {
-          main: '#208080',
-        },
+    },
+    palette: {
+      type: 'light',
+      primary: {
+        main: '#f0c000',
+      },
+      secondary: {
+        main: '#208080',
       },
     },
   });
